@@ -1,1 +1,1 @@
-echo Another readme
+Another readme
